@@ -1,4 +1,4 @@
 ---
-title: Mình là Dương aka dwgth4i
+title: Mình là Dương
 ---
-# Test
+Đây sẽ là nơi mình chia sẻ về mọi thứ liên quan đến kiến thức mình nhặt nhạnh được từ mọi nơi và những thứ khác :D
