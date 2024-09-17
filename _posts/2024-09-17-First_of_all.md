@@ -1,5 +1,5 @@
 ---
-title: "Đôi chút cho bản thân"
+title: "Thoughts on CPTS"
 date: 2024-09-17
 ---
 # Mở đầu
