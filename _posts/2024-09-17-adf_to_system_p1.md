@@ -1,6 +1,6 @@
 ---
 title: "Arbitrary file delete to SYSTEM (Part 1)"
-date: 2024-09-18
+date: 2024-09-17
 ---
 
 # Mở đầu
