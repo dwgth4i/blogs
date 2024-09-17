@@ -1,6 +1,6 @@
 ---
 title: "Thoughts on CPTS"
-date: 2024-09-17
+date: 2024-09-03
 ---
 # Mở đầu
 Trong thời gian 2 tháng nghỉ hè sau khi thi xong học kì và kết thúc năm 3 tại HUST, do có ý định đăng kí thi CPTS, 1 chứng chỉ của HTB nên mình cũng quyết định về quê luôn để nghỉ ngơi và chuẩn bị ôn thi (thật ra web trường như ... nên không đăng kí được môn nào cho kì hè) và ở dưới sẽ là quá trình :D
