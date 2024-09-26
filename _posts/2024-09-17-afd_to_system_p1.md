@@ -31,7 +31,7 @@ Và nhớ rằng điều kiện cần duy nhất là có thể xóa 1 folder r�
 Abdelhamid Naceri có tìm ra được 1 bug khác về User Profile cho phép xóa file dưới quyền SYSTEM còn cụ thể như nào thì đó sẽ lại là 1 bài phân tích dài khác 🙉
 
 # Conclusion
-Đây đáng lẽ sẽ là 1 bài viết rất dài nếu như thật sự đẩy đủ nên do hơi lười nên sẽ tạm dừng ở đây đã, maybe sẽ có part 2 cho chain exploit thú vị này :D Phía dưới sẽ là các bài reference để mọi người có thể tham khảo.
+Đây đáng lẽ sẽ là 1 bài viết rất dài nếu như thật sự đầy đủ nên do hơi lười nên sẽ tạm dừng ở đây đã, maybe sẽ có part 2 cho chain exploit thú vị này :D Phía dưới sẽ là các bài reference để mọi người có thể tham khảo.
 
 Ref:
 
