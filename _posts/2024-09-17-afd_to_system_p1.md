@@ -35,6 +35,6 @@ Abdelhamid Naceri có tìm ra được 1 bug khác về User Profile cho phép x
 
 Ref:
 
-https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks
-https://cloud.google.com/blog/topics/threat-intelligence/arbitrary-file-deletion-vulnerabilities/
-https://mantodeasecurity.de/en/2024/05/cve-2024-27460-plantronics-hub-lpe/ (CVE này đến từ idol xct của mình)
+(https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks)
+(https://cloud.google.com/blog/topics/threat-intelligence/arbitrary-file-deletion-vulnerabilities/)
+(https://mantodeasecurity.de/en/2024/05/cve-2024-27460-plantronics-hub-lpe/) (CVE này đến từ idol xct của mình)
