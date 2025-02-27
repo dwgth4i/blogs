@@ -1,9 +1,14 @@
 ---
 layout: home
-title: dwgth4i
-author: dwgth4i
+title: dwgth4i's blog
 ---
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
+<div class="container">
+    <h1>Welcome to My Blog</h1>
+    <p>Latest posts:</p>
+    <ul>
+        {% for post in site.posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
+        {% endfor %}
+    </ul>
+</div>
