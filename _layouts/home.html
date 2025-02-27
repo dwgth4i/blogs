@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <img src="/assets/images/avatar.png" alt="Profile" class="avatar">
+            <h1>{{ site.author }}</h1>
+            <p class="bio">{{ site.description }}</p>
+            <nav class="menu">
+                <a href="/" class="active">🏠 Home</a>
+                <a href="/categories">📂 Categories</a>
+                <a href="/tags">🏷️ Tags</a>
+                <a href="/about">ℹ️ About</a>
+            </nav>
+            <footer class="social-links">
+                <a href="https://github.com/dwgth4i">GitHub</a>
+                <a href="https://x.com/dwgth4i">X</a>
+            </footer>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="content">
+            {{ content }}
+        </main>
+    </div>
+</body>
+</html>
