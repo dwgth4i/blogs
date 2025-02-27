@@ -1,0 +1,48 @@
+body {
+    background: #121212;
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+    display: flex;
+}
+.container {
+    display: flex;
+    width: 100%;
+}
+.sidebar {
+    width: 300px;
+    background: #181818;
+    padding: 20px;
+    position: fixed;
+    height: 100vh;
+}
+.avatar {
+    width: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 10px;
+}
+.menu a {
+    display: block;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+.menu a:hover, .menu .active {
+    background: #252525;
+    border-radius: 5px;
+}
+.content {
+    margin-left: 320px;
+    padding: 20px;
+    flex: 1;
+}
+.post-card {
+    background: #1e1e1e;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.post-card img {
+    width: 80px;
+    border-radius: 10px;
+}
